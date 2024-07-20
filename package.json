@@ -9,27 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.19",
-    "axios": "^1.7.2",
-    "i18next": "^23.12.2",
-    "i18next-browser-languagedetector": "^8.0.0",
-    "i18next-http-backend": "^2.5.2",
-    "next": "14.2.5",
-    "next-i18next": "^15.3.0",
-    "react": "^18",
-    "react-dom": "^18",
-    "react-i18next": "^15.0.0",
-    "react-toastify": "^10.0.5"
+    "autoprefixer": "",
+    "axios": "",
+    "i18next": "",
+    "i18next-browser-languagedetector": "",
+    "i18next-fs-backend": "^2.3.1",
+    "i18next-http-backend": "",
+    "next": "",
+    "next-i18n-router": "^5.5.1",
+    "react": "",
+    "react-dom": "",
+    "react-i18next": "",
+    "react-icons": "",
+    "react-toastify": "",
+    "react-world-flags": ""
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.5",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "typescript": "^5"
-  },
-  "type": "module"
+    "@types/node": "",
+    "@types/react": "",
+    "@types/react-dom": "",
+    "eslint": "",
+    "eslint-config-next": "",
+    "postcss": "",
+    "tailwindcss": "",
+    "typescript": ""
+  }
 }
