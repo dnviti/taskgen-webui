@@ -11,15 +11,10 @@
   "dependencies": {
     "autoprefixer": "",
     "axios": "",
-    "i18next": "",
-    "i18next-browser-languagedetector": "",
-    "i18next-fs-backend": "^2.3.1",
-    "i18next-http-backend": "",
     "next": "",
-    "next-i18n-router": "^5.5.1",
+    "next-intl": "",
     "react": "",
     "react-dom": "",
-    "react-i18next": "",
     "react-icons": "",
     "react-toastify": "",
     "react-world-flags": ""
